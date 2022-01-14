@@ -1,2 +1,2 @@
 # my-dots
-Dotfiles and stuff
+Dotfiles para customização do ambiente Linux utilizando Openbox e polybar.
